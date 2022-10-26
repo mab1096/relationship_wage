@@ -1,0 +1,29 @@
+This dataset is prepared using the supplemental material provided by Introductory Econometrics: A Modern Approach, 5th Edition, J. M. Wooldridge, ISBN-13: 978-111153104. 
+This dataset is a copyrighted material. Please do not distribute.
+
+WAGE2.DES
+
+wage      hours     IQ        KWW       educ      exper     tenure    age      
+married   black     south     urban     sibs      brthord   meduc     feduc    
+lwage     
+
+  Obs:   935 (you have 800)
+
+  1. wage                     monthly earnings
+  2. hours                    average weekly hours
+  3. IQ                       IQ score
+  4. KWW                      knowledge of world work score
+  5. educ                     years of education
+  6. exper                    years of work experience
+  7. tenure                   years with current employer
+  8. age                      age in years
+  9. married                  =1 if married
+ 10. black                    =1 if black
+ 11. south                    =1 if live in south
+ 12. urban                    =1 if live in SMSA
+ 13. sibs                     number of siblings
+ 14. brthord                  birth order
+ 15. meduc                    mother's education
+ 16. feduc                    father's education
+ 17. lwage                    natural log of wage
+
